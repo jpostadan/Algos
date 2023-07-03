@@ -1,1 +1,1 @@
-# Algos
+Learning JavaScript Algorithms
